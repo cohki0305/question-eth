@@ -1,0 +1,28 @@
+{
+  "name": "question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cohki0305/question-eth.git"
+  },
+  "author": "cohki0305",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cohki0305/question-eth/issues"
+  },
+  "homepage": "https://github.com/cohki0305/question-eth#readme",
+  "devDependencies": {
+    "react-scripts": "^1.1.4"
+  }
+}
